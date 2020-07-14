@@ -1,9 +1,9 @@
 html{
   box-sizing: border-box; 
 }
-md{
-  padding:0px;
-  border: 0;
+md-block{
+  padding:0px !important;
+  border: 0 !important;
 }	
 	
 * {
