@@ -92,9 +92,10 @@
     <div class="content">
       <img src="image/branch.jpg" style="width:100%">
       <h3>Our Batch</h3>
-      <p>It may not be the best branch,not have high placement,but one thing you will find true friendship.from occupying the whole canteen
-      to celebrate everyone's birthday like a family..Its I&E here most of the students that joined in this batch cover mostly all region of Odisha amd even from some We hopefully abide by the "Unity in Diversity".Students are not just cooperative but also talented.Family in other term is I&E.
-      "I&E is not just a immotion we play together,we laugh together,we live together." </p>
+      <p>It may not be the best branch,not have high placement,but one thing you will find is true friendship.From occupying the whole canteen
+      to celebrate everyone's birthday like a family..Its I&E here most of the students that joined in this batch cover mostly all region of Odisha and even from some other   
+        state.We hopefully abide by the "Unity in Diversity" rule.Students are not just cooperative but also talented.Family in other term is I&E.
+      "I&E is not just am  emotion we play together,we laugh together,we live together." </p>
     </div>
   </div>
   <div class="column">
@@ -123,14 +124,14 @@
     <div class="content">
       <img src="image/perception.jpg"  style="width:100%">
       <h3>Perception</h3>
-      <p>Perception:The one and only TECH-FEST of CET where various technological competition are held among various technical colleges.Various entertaining and musical events were held.Our department I&E also had a major role in peaceful and proper conductionof the fest.Our seniors were the major coordination manager .Many first year also took part in the competition and bagged various prizes.Its Dj night was really a memorable one for our branch.</p>
+      <p>Perception:The one and only TECH-FEST of CET where various technological competition are held among various technical colleges.Various entertaining and musical events were held like Beg Borrow Steal,Lead The Beast,Open Mic and other tech event.Our department I&E also had a major role in peaceful and proper conduction of the fest.Our seniors were the major coordination manager .Many first year also took part in the competition and bagged various prizes.Its Dj night was really a memorable one for our branch.</p>
     </div>
   </div>
   <div class="column">
     <div class="content">
       <img src="image/xtacy (2).jpg"  style="width:100%">
       <h3>Xtasy</h3>
-      <p>Xtasy:The most popular cultural fest among all the colleges in Odisha.There was an awesome atmosphere of the college for 3 days where many celebrities like Gajendra Verma ,.....attend the fest to entertain all students.I&E seniors also helped a lot for this fest .We all had the greatest 3 days of our lives. </p>
+      <p>Xtasy:The End of an Era..The most awaited popular cultural fest among all the colleges in Odisha.There was an awesome atmosphere of the college for 3 days where many celebrities like Gajendra Verma ,DJ Nikhil,Kevin Zombie Joseph attend the fest to entertain all students.Various entertaining events and competition like Bike stunts,Rodies,BurnOut,OpenMic, were held.I&E seniors also helped a lot for this fest .We all had the greatest 3 days of our lives. </p>
     </div>
   </div>
 </div>
