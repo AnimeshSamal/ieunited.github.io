@@ -9,6 +9,12 @@
     <link href = "css1.css" rel="stylesheet" />
 
     <title>Home</title>
+    <style>
+    body{
+      padding:0px;
+      border:0;
+      
+    </style>
   </head>
   <body>
     <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
