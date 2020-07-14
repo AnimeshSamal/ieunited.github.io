@@ -93,7 +93,7 @@
       <img src="image/branch.jpg" style="width:100%">
       <h3>Our Batch</h3>
       <p>It may not be the best branch,not have high placement,but one thing you will find true friendship.from occupying the whole canteen
-      to celebrate everyone's birthday like a family.Where senior look at you like they there one sibling,not as ragging material.other state.Its I&E here most of the students that joined in this batch cover mostly all region of Odisha amd even from some We hopefully abide by the "Unity in Diversity".Students are not just cooperative but also talented.Family in other term is I&E.
+      to celebrate everyone's birthday like a family..Its I&E here most of the students that joined in this batch cover mostly all region of Odisha amd even from some We hopefully abide by the "Unity in Diversity".Students are not just cooperative but also talented.Family in other term is I&E.
       "I&E is not just a immotion we play together,we laugh together,we live together." </p>
     </div>
   </div>
@@ -109,14 +109,14 @@
       <img src="image/freshers.jpg" style="width:100%">
       <h3>Freshers</h3>
       <p>The first ever recreational moment after our entry in CET. Ohh,you think any one would have dare to miss it? It went 
-         totally with the theme-"ALOHA NOVATO" which is a Hawaiian proverb meaning "Freshely Updated".Yep,it was held of a updated kind of event with so magnanimous decoration and surreal ambiencein the conference hall.Better,don't ask about the uniform. It was no less cassata ice-cream.Beside all contrast such as region,rank,andresyt other, we found our soulmates that day.Not just we fell prey to those pranks of seniors but also,we met each other, fake proposed each other (some got real sh*t) and danced and enjoyed a lot.  </p>
+         totally with the theme-"ALOHA NOVATO" which is a Hawaiian proverb meaning "Freshely Updated".Yep,it was held of a updated kind of event with so magnanimous decoration and surreal ambiencein the conference hall.Better,don't ask about the uniform. It was no less cassata ice-cream.Beside all contrast such as region,rank,and rest other, we found our soulmates that day.Not just we fell prey to those pranks of seniors but also,we met each other, fake proposed each other (some got real sh*t) and danced and enjoyed a lot.  </p>
     </div>
   </div>
   <div class="column">
     <div class="content">
       <img src="image/picnic.jpg"  style="width:100%">
       <h3>Picnic</h3>
-      <p>Picnic: (Trip to Chandrabhaga) The first ever branch in whole CET that went to picnic to such a far away place and that too in first year with its own management.All credits to every student who showed eager and intrest in successful execution of the idea.It was realy a fantastic trip with a bunch of sweet unforgettable memories that will always remain in everyone's mind.Dj Dance near the beach, Tasty breakfast and lunch,Group games it was really a remarkable day.   </p>
+      <p>Picnic: (Trip to Chandrabhaga) The first ever branch in whole CET that went to picnic to such a far away place and that too in first year with its own management.All credits to every student who showed eager and interest in successful execution of the idea.It was realy a fantastic trip with a bunch of sweet unforgettable memories that will always remain in everyone's mind.Dj Dance near the beach, Tasty breakfast and lunch,Group games it was really a remarkable day.   </p>
     </div>
   </div>
   <div class="column">
@@ -129,8 +129,8 @@
   <div class="column">
     <div class="content">
       <img src="image/xtacy (2).jpg"  style="width:100%">
-      <h3>Xtacy</h3>
-      <p>Xtacy:The most popular cultural fest among all the colleges in Odisha.There was an awesome atmosphere of the college for 3 days where many celebrities like Gajendra Verma ,.....attened the fest to entertain all students.I&E seniors also helped a lot for this fest .We all had the greatest 3 days of our lives. </p>
+      <h3>Xtasy</h3>
+      <p>Xtasy:The most popular cultural fest among all the colleges in Odisha.There was an awesome atmosphere of the college for 3 days where many celebrities like Gajendra Verma ,.....attend the fest to entertain all students.I&E seniors also helped a lot for this fest .We all had the greatest 3 days of our lives. </p>
     </div>
   </div>
 </div>
