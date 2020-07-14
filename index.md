@@ -62,7 +62,7 @@
     </ul>
   </div>
 </nav><br>
-<div class="main">
+<div class="main" style="padding:20px;">
 
   <ul class="list-group list-group-flush">
       <li class="list-group-item"><h3>Welcome</h3></li>
@@ -119,7 +119,7 @@
     </div>
   </div>
 </div>
-<div class="footerDiv">
+<div class="footerDiv" style="padding:20px;">
   <span><h5>IandE United (2019-2023)</h5></span>
   <span><h6>Content- Subham Nayak</h6></span>
   <span><h6>Design & Devloped by- Animesh Samal</h6></span>
