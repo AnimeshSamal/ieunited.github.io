@@ -74,7 +74,7 @@
       <li class="list-group-item"><h3>Welcome</h3></li>
  </ul><br>
    
-<p>Some memorable days that students will never forget</p>
+<p>Some memorable days we would be glad to relive </p>
 
 <!-- Portfolio Gallery Grid -->
 <div class="row">
@@ -82,17 +82,14 @@
     <div class="content">
       <img src="image/branch.jpg" style="width:100%">
       <h3>Our Batch</h3>
-      <p>It may not be the best branch,may not have high placement,but one thing you will find is true friendship.From occupying the whole canteen
-      to celebrate everyone's birthday like a family till standing beside each other in time of need,It's I&E here.Most of the students that joined in this batch cover mostly all region of Odisha and even from some other   
-        state.We hopefully abide by the "Unity in Diversity" rule.Students are not just cooperative but also talented.Family in other terms is I&E.
-      "I&E is not just an emotion we play together,we laugh together,we live together." </p>
+      <p>This batch of 2019-23 consists of immensely talented and ambitious students comprising of various corners of India.They formed a small bond amongst themselves with love and care.From occupying the whole canteen to celebrate everyone's birthday like a family till standing beside each other in time of need,It's I&E here.Most of the students that joined in this batch cover mostly all region of Odisha and even from some other state.We hopefully abide by the "Unity in Diversity" rule.Students are not just cooperative but also talented.We made a small family with a name and i&E United is where its cherished."I&E is not just an emotion we play together,we laugh together,we live together." </p>
     </div>
   </div>
   <div class="column">
     <div class="content">
       <img src="image/induction.jpg"  style="width:100%">
       <h3>Induction</h3>
-      <p>Just soon we got enrolled in our college ,the first 21 days were arranged under the college authorities for us to get acquanted with the college atmosphere .As the transition phase from school days to college days is a difficult thing for any student, the college staffs and senior made our journey easy by interacting with us and showing us the college clubs.Various things happened within this 21 days .As students were outside Bhubaneswar,so we were also introduced to various tourist and useful places in Bhubaneswar such like Dhauligiri,Barunei and Nandankanan.We just not got familiar with the place but also made friends with each other.It was a memorable journey for all of us as we get such a platform to present each of us infront of senior and batchmate.</p>
+      <p>After getting admission,the college authorities arranged for a 21 days induction program for us to get acquainted with college and its atmosphere.The college staffs and seniors warmly welcomed us.Various clubs give their introduction and motivated us to join them.A small neighbourhood tour was planned too to familiarize us with our college surroundings. This was planned just that we will find ease in adusting with the college atmosphere and staffs and seniors</p>
     </div>
   </div>
   <div class="column">
@@ -100,7 +97,7 @@
       <img src="image/freshers.jpg" style="width:100%">
       <h3>Freshers</h3>
       <p>The first ever recreational moment after we got freshly admitted in CET. Ohh,you think any one would have dare to miss it? It went 
-         totally with the theme-"ALOHA NOVATO" which is a Hawaiian proverb meaning "Freshly Updated".Yep,the event was organised in such an exhilarating and eye catching manner and it went totally with the theme.Better,don't ask about the uniform. It was no less cassatta ice-cream.Beside all contrast such as region,rank,and rest other, we found out some people who are going to stand by our side for the next four years and beyond .Not just we fell prey to those pranks of seniors but also,we met each other, fake proposed each other and danced and enjoyed a lot.  </p>
+         totally with the theme-"ALOHA NOVATO" which is a Hawaiian proverb meaning "Freshly Updated".Yep,the event was organised in such an exhilarating and eye catching manner and it went totally with the theme.The dress code was hillarious,better not to mention. It was no less cassatta ice-cream.We met new people and got to know each other.Not just we fell prey to those pranks of seniors but also,we met each other,various events like dance wars,singing and dare gameswhere students were dared to perform unexpected things were held. </p>
     </div>
   </div>
   <div class="column">
@@ -114,7 +111,7 @@
     <div class="content">
       <img src="image/perception.jpg"  style="width:100%">
       <h3>Perception</h3>
-      <p>Perception:The one and only TECH-FEST of CET where various technological competition are held among various technical colleges.Various entertaining and musical events were held like Beg Borrow Steal,Lead The Beast,Open Mic and other tech event.Our department I&E also had a major role in peaceful and proper conduction of the fest.Our seniors were the major coordination manager .Many first year also took part in the competition and bagged various prizes.Its Dj night was really a memorable one for our branch.</p>
+      <p>Perception is the tech-fest conducted by cet where various technical competitions and campaigns  are held. Young brains from all over odisha participate to showcase their skills and compete with others. This is an event where new ideas are seen live and learn more and be inspired. Other than techincal competitions like coding contests,webpage development contests funny events are organized too for enjoyment. Our branch students played a significant role in peaceful and proper conduction of the fest. Our seniors were the major coordinators in managing team. The freshermen year students too took part in the competitions and bagged various prizes and accolades. The paramount of this event were the DJ nights and it made an indelible impression on us.</p>
     </div>
   </div>
   <div class="column">
