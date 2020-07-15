@@ -97,7 +97,7 @@
       <img src="image/freshers.jpg" style="width:100%">
       <h3>Freshers</h3>
       <p>The first ever recreational moment after we got freshly admitted in CET. Ohh,you think any one would have dare to miss it? It went 
-         totally with the theme-"ALOHA NOVATO" which is a Hawaiian proverb meaning "Freshly Updated".Yep,the event was organised in such an exhilarating and eye catching manner and it went totally with the theme.The dress code was hillarious,better not to mention. It was no less cassatta ice-cream.We met new people and got to know each other.Not just we fell prey to those pranks of seniors but also,we met each other,various events like dance wars,singing and dare gameswhere students were dared to perform unexpected things were held. </p>
+         totally with the theme-"ALOHA NOVATO" which is a Hawaiian proverb meaning "Freshly Updated".Yep,the event was organised in such an exhilarating and eye catching manner and it went totally with the theme.The dress code was hillarious better not to mention. It was no less cassatta ice-cream.We met new people and got to know each other.Not just we fell prey to those pranks of seniors but also,we met each other,various events like dance wars,singing and dare games, where students were dared to perform unexpected things were held. </p>
     </div>
   </div>
   <div class="column">
@@ -124,7 +124,7 @@
 </div>
 <div class="footerDiv" style="padding:20px;">
   <span><h5>IandE United (2019-2023)</h5></span>
-  <span><h6>Content- Subham Nayak</h6></span>
+  <span><h6>Content- Subham Nayak and Adyasha Pattanayak</h6></span>
   <span><h6>Design & Devloped by- Animesh Samal</h6></span>
   <span><h6>Contact for Website - 7978369574</h6><span>
   <span><h6>e-mail id-animeshsamal1995@gmail.com</h6><span>  
