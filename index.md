@@ -82,32 +82,32 @@
     <div class="content">
       <img src="image/branch.jpg" style="width:100%">
       <h3>Our Batch</h3>
-      <p>It may not be the best branch,not have high placement,but one thing you will find is true friendship.From occupying the whole canteen
-      to celebrate everyone's birthday like a family..Its I&E here most of the students that joined in this batch cover mostly all region of Odisha and even from some other   
-        state.We hopefully abide by the "Unity in Diversity" rule.Students are not just cooperative but also talented.Family in other term is I&E.
-      "I&E is not just am  emotion we play together,we laugh together,we live together." </p>
+      <p>It may not be the best branch,may not have high placement,but one thing you will find is true friendship.From occupying the whole canteen
+      to celebrate everyone's birthday like a family till standing beside each other in time of need,It's I&E here.Most of the students that joined in this batch cover mostly all region of Odisha and even from some other   
+        state.We hopefully abide by the "Unity in Diversity" rule.Students are not just cooperative but also talented.Family in other terms is I&E.
+      "I&E is not just an emotion we play together,we laugh together,we live together." </p>
     </div>
   </div>
   <div class="column">
     <div class="content">
       <img src="image/induction.jpg"  style="width:100%">
       <h3>Induction</h3>
-      <p>Just soon we got enrolled in our college ,the first 21 days were arranged under the college authorities for us to get acquanted with the college atmosphere .As the transition phase from school days to college days is a difficult thing for any student, the college staffs and senior made our journey easy by interacting with us and showing us the college clubs.Various things happened within this 21 days .As students were outside Bhubanswar,so we are also introduced to various tourist and usefull place in Bhubanswar such like Dhauligiri,Barunei and Nandankanan.We just not got familiar with the place but also made friends with each other.It was a memorable journey for all of us as we get such a platform to present each of us infront of senior and batchmate.</p>
+      <p>Just soon we got enrolled in our college ,the first 21 days were arranged under the college authorities for us to get acquanted with the college atmosphere .As the transition phase from school days to college days is a difficult thing for any student, the college staffs and senior made our journey easy by interacting with us and showing us the college clubs.Various things happened within this 21 days .As students were outside Bhubaneswar,so we were also introduced to various tourist and useful places in Bhubaneswar such like Dhauligiri,Barunei and Nandankanan.We just not got familiar with the place but also made friends with each other.It was a memorable journey for all of us as we get such a platform to present each of us infront of senior and batchmate.</p>
     </div>
   </div>
   <div class="column">
     <div class="content">
       <img src="image/freshers.jpg" style="width:100%">
       <h3>Freshers</h3>
-      <p>The first ever recreational moment after our entry in CET. Ohh,you think any one would have dare to miss it? It went 
-         totally with the theme-"ALOHA NOVATO" which is a Hawaiian proverb meaning "Freshely Updated".Yep,it was held of a updated kind of event with so magnanimous decoration and surreal ambiencein the conference hall.Better,don't ask about the uniform. It was no less cassata ice-cream.Beside all contrast such as region,rank,and rest other, we found our soulmates that day.Not just we fell prey to those pranks of seniors but also,we met each other, fake proposed each other (some got real sh*t) and danced and enjoyed a lot.  </p>
+      <p>The first ever recreational moment after we got freshly admitted in CET. Ohh,you think any one would have dare to miss it? It went 
+         totally with the theme-"ALOHA NOVATO" which is a Hawaiian proverb meaning "Freshly Updated".Yep,the event was organised in such an exhilarating and eye catching manner and it went totally with the theme.Better,don't ask about the uniform. It was no less cassatta ice-cream.Beside all contrast such as region,rank,and rest other, we found out some people who are going to stand by our side for the next four years and beyond .Not just we fell prey to those pranks of seniors but also,we met each other, fake proposed each other and danced and enjoyed a lot.  </p>
     </div>
   </div>
   <div class="column">
     <div class="content">
       <img src="image/picnic.jpg"  style="width:100%">
       <h3>Picnic</h3>
-      <p>Picnic: (Trip to Chandrabhaga) The first ever branch in whole CET that went to picnic to such a far away place and that too in first year with its own management.All credits to every student who showed eager and interest in successful execution of the idea.It was realy a fantastic trip with a bunch of sweet unforgettable memories that will always remain in everyone's mind.Dj Dance near the beach, Tasty breakfast and lunch,Group games it was really a remarkable day.   </p>
+      <p>Picnic: (Trip to Chandrabhaga) The first ever branch in whole CET that went to picnic to such a far away place and that too in first year with its own management.All credit goes to every student who showed eager and interest in successful execution of the idea.It was really a fantastic trip with a bunch of sweet unforgettable memories that will always remain in everyone's mind.Dj Dance near the beach, Tasty breakfast and lunch,Group games it was really a remarkable day.   </p>
     </div>
   </div>
   <div class="column">
